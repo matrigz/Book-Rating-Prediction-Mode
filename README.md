@@ -1,7 +1,7 @@
 # Book-Rating-Prediction-Mode
 
 ## Description   
-What it does   
+The goal of this analysis is to develop a robust book rating prediction model using a dataset containing information about various books. The context is centered around understanding the factors influencing book ratings, exploring potential patterns, and creating a predictive model to enhance rating predictions.
 
 ## How to run   
 First, install dependencies   
